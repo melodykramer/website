@@ -1,0 +1,8 @@
+name: "Melody Kramer"
+description: "This is my blog"
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+highlighter: true
